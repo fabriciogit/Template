@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gtQu2ulZ/vA/b+8ERjIC9zJiv9CD7VsJu1AeJf/NQvf/3do6YUauLjgpEOn/G+km2pq1iGMsn2uWXadMJYGlw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Template\\Template.Application\\Template.Application.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfs.br800.corpintra.net:8080/tfs/BMB/_packaging/NuGetBMB/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
